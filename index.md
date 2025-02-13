@@ -3,8 +3,12 @@ layout: page
 title: Home
 show-title: false
 ---
+# The Jerusalem Temple in the Time of Jesus
 
-This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
+![temple model by Michael Avi-Yonah, 1966](https://www.biblicalarchaeology.org/wp-content/uploads/herods-temple-avi-yonah.jpg)
+---
+
+This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to include information about
 
 1. The project & general background
 2. Who you are
