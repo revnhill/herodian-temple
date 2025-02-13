@@ -1,4 +1,4 @@
-# jekyll-project-template
+# The Jerusalem Temple in Jesus's Time
 
 Write a tagline here!
 
