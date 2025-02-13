@@ -1,9 +1,9 @@
 # change the followings to match your Github username and repo name
 baseurl: "/jekyll-project-template" # the name of your github repo
-url: "https://BCDigSchol.github.io" # the url of your github pages (change BCDigSchol to your username)
+url: "https://revnataliehill.herodian-temple.io" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
-title: "Your Project Name"
+title: The Jerusalem Temple in the Time of Jesus
 description: Your Project Description @ Boston College
 
 # color theme for links
