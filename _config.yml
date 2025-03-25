@@ -31,8 +31,9 @@ nav-menu:
       - link: location
   - title: About
     link: about
-  - title: References
-    link: bibliography
+    submenu:
+      - title: References
+      - link: bibliography
 
 # sets whether a search bar appears on the site header
 search-bar: true
