@@ -1,10 +1,10 @@
 # change the followings to match your Github username and repo name
 baseurl: "/herodian-temple" # the name of your github repo
-url: "https://revnhill.herodian-temple.io" # the url of your github pages (change BCDigSchol to your username)
+url: "https://revnhill.github.io/herodian-temple/" # the url of your github pages (change BCDigSchol to your username)
 
 # site information used in page title, meta data etc.
 title: The Jerusalem Temple in the Time of Jesus
-description: Beginning in 29 B.C.E., Herod the Great rebuilt the Jerusalem Temple and expanded the surrounding Temple Mount. Unfortunately, the Temple was destroyed in 70 C.E., making it hard for contemporary Christians and Jews to imagine important religious events from the first century. This site provides a 3D model of the Temple complex as a way to better understand these religious traditions. 
+description: 3D modeling of the Second Temple as constructed under Herod the Great 29 B.C.E. - 70 C.E., with historical and religious background 
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
@@ -13,28 +13,36 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 nav-menu:
   - title: Home
     link: index
-  - title: Background
+  - title: History
     submenu:
-      - title: Previous Scholarship
-        link: scholarship
-      - title: Source & Methods
-        link: methods
-  - title: Findings
-    link: findings
-  - title: Reflections
-    link: reflections
-  - title: Bibliography
+      - title: Hebrew Bible
+        link: hebrewbible
+      - title: Second Temple 
+        link: secondtemple
+      - title: Islamic Development
+      - link: islamicdev
+  - title: Herodian Temple
+    submenu:
+      - title: Sources & Methods
+      - link: sources
+      - title: Features
+      - link: features
+      - title: Temple Location
+      - link: location
+  - title: About
+    link: about
+  - title: References
     link: bibliography
 
 # sets whether a search bar appears on the site header
-search-bar: false
+search-bar: true
 
 hide-footer: false # set to true to hide the footer
-footer-message: Put Your Footer Message Here | CC BY-NC License
+footer-message: CC BY-NC License
 footer-submessage:  By Rev. Natalie Hill, with the Digital Scholarship Group, Boston College
 footer-submessage-link: https://ds.bc.edu
 
-# google-analytics: // if you want to use Google analytics, include your ID here
+# google-analytics: //G-JQHZN24CWS
 
 # sets number of items display per page, if using a blog
 paginate: 5
