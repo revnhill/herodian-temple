@@ -10,6 +10,7 @@ description: 3D modeling of the Second Temple as constructed under Herod the Gre
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # nav bar settings and links
+<select style="width: 230px;">
 nav-menu:
   - title: Home
     link: index
