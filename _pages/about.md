@@ -1,7 +1,7 @@
 ---
 layout: page
-title: References
-permalink: bibliography
+title: About
+permalink: about
 show-title: true
 ---
 
