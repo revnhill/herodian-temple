@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sources and Methods
+title: Sources & Methods
 permalink: methods
 show-title: true
 ---
