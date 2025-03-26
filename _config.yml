@@ -19,11 +19,11 @@ nav-menu:
         link: hebrewbible
       - title: Second Temple 
         link: secondtemple
-      - title: Islamic Development
+      - title: Islamic Holy Sites
         link: islamic
   - title: Herodian Temple
     submenu:
-      - title: Sources and Methods
+      - title: Sources & Methods
         link: methods
       - title: Features
         link: features
