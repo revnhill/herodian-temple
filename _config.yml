@@ -26,7 +26,11 @@ nav-menu:
       - title: Sources & Methods
         link: methods
       - title: Features
-        link: features
+        submenu:
+        - title: Features of the Temple Mount
+          link: featuresmount
+        - title: Features of the Temple Courts
+          link: featurescourts
       - title: Temple Location
         link: location
   - title: About
