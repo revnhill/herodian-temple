@@ -1,3 +1,8 @@
+layout: page
+title: Findings
+permalink: findings
+show-title: true
+
 <b>The Jerusalem Temple in the Hebrew Bible</b>
 
 
