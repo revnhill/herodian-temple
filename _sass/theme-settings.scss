@@ -3,18 +3,18 @@
 /* ===== COLORS ===== */
 // Change any of these to alter the look of the theme's colors
 
-$site-frame-color: #F8F8B0FF; // color that surrounds the website on the left & right (irrelevant if header/footer/content width is set to 100%
-$site-background-color: #F8F8B0FF; // base background color for the site's content
+$site-frame-color: #FBFBDDFF; // color that surrounds the website on the left & right (irrelevant if header/footer/content width is set to 100%
+$site-background-color: #FBFBDDFF; // base background color for the site's content
 $site-header-color: #C87810FF; // background color of the site header
 $site-header-mobile-dropdown-menu-color: #F8F8F8FF; // background color of (mobile only) dropdown nav menu
 $site-title-color: #F8F8F8FF; // color of the site title / authors
 $site-footer-color: #C87810FF; // background color of the site header
 $site-accent-color: #904000FF; // accent color of site (used in the footer)
-$site-header-image-url: "assets/img/Screenshot 2025-03-26 001308.png" ''; // LEAVE BLANK unless you want an image as a header background. If you do, point to assets directory like /assets/img/put-your-filename-here.jpeg
+$site-header-image-url: "assets/img/headerimg.png" ''; // LEAVE BLANK unless you want an image as a header background. If you do, point to assets directory like /assets/img/put-your-filename-here.jpeg
 
 $link-base-color: #904000FF; // color of a regular link
 $link-visited-color: #F87050FF; // color of a regular link when visited
-$link-hover-color: #D05838FF; // color of a regular link upon hover
+$link-hover-color: #904000ff; // color of a regular link upon hover
 $link-header-base-color: #F8F8F8FF; // color of a link in the site header
 $link-header-hover-color: #F8D000FF; // color of a link in the site header when hovering
 $link-footer-base-color: #f8f8f8FF; // color of a link in the site footer
