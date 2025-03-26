@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Islamic Developments
+title: Islamic Holy Sites
 permalink: islamic
-show-title: false
+show-title: true
 ---
 <b>Islamic Developments on the Temple Mount </b>
