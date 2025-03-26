@@ -23,7 +23,7 @@ nav-menu:
       - link: islamic
   - title: Herodian Temple
     submenu:
-      - title: Sources & Methods
+      - title: Sources and Methods
       - link: methods
       - title: Features
       - link: features
