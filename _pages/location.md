@@ -1,0 +1,9 @@
+---
+layout: page
+title: Temple Location
+permalink: location
+show-title: false
+---
+
+
+<b>Where <u>exactly</> was the Temple on the Temple Mount</b>
