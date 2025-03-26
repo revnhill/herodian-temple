@@ -6,4 +6,4 @@ show-title: false
 ---
 
 
-<b>Where <u>exactly</> was the Temple on the Temple Mount</b>
+<b>Where <u>exactly</u> was the Temple on the Temple Mount</b>
