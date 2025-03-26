@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bibliography
+title: References
 permalink: bibliography
 show-title: true
 ---
