@@ -1,8 +1,8 @@
 ---
 layout: page
-title: secondtemple
+title: Second Temple
 permalink: secondtemple
-show-title: false
+show-title: true
 ---
 <b>The Second Temple Period </b>
 
