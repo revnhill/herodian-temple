@@ -33,7 +33,7 @@ nav-menu:
     link: about
    
 # sets whether a search bar appears on the site header
-search-bar: true
+search-bar: false
 
 hide-footer: false # set to true to hide the footer
 footer-message: CC BY-NC License
