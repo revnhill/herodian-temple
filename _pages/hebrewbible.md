@@ -1,6 +1,6 @@
 layout: page
-title: Findings
-permalink: findings
+title: Hebrew Bible
+permalink: hebrewbible
 show-title: true
 
 <b>The Jerusalem Temple in the Hebrew Bible</b>
