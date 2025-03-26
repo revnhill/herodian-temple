@@ -1,7 +1,10 @@
+---
 layout: page
 title: Hebrew Bible
 permalink: hebrewbible
 show-title: true
+---
+
 
 <b>The Jerusalem Temple in the Hebrew Bible</b>
 
