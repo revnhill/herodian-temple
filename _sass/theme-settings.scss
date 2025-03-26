@@ -5,22 +5,22 @@
 
 $site-frame-color: #fef7e3; // color that surrounds the website on the left & right (irrelevant if header/footer/content width is set to 100%
 $site-background-color: #fef7e3; // base background color for the site's content
-$site-header-color: #c98e00; // background color of the site header
+$site-header-color: #fdd064; // background color of the site header
 $site-header-mobile-dropdown-menu-color: #676767; // background color of (mobile only) dropdown nav menu
 $site-title-color: #FAFAFA; // color of the site title / authors
-$site-footer-color: #171717; // background color of the site header
-$site-accent-color: #8A100B; // accent color of site (used in the footer)
+$site-footer-color: #fdd064; // background color of the site header
+$site-accent-color: #986400; // accent color of site (used in the footer)
 $site-header-image-url : ''; // LEAVE BLANK unless you want an image as a header background. If you do, point to assets directory like /assets/img/put-your-filename-here.jpeg
 
-$link-base-color: #8A100B; // color of a regular link
-$link-visited-color: #8A100B; // color of a regular link when visited
+$link-base-color: #986400; // color of a regular link
+$link-visited-color: #ffed50; // color of a regular link when visited
 $link-hover-color: #171717; // color of a regular link upon hover
 $link-header-base-color: #FAFAFA; // color of a link in the site header
-$link-header-hover-color: #b29d6c; // color of a link in the site header when hovering
-$link-footer-base-color: #FAFAFA; // color of a linnk in the site footer
-$link-footer-hover-color: #b29d6c; // color of a link in the site footer when hovering
+$link-header-hover-color: #ffed50; // color of a link in the site header when hovering
+$link-footer-base-color: #FAFAFA; // color of a link in the site footer
+$link-footer-hover-color: #171717; // color of a link in the site footer when hovering
 $link-dropdown-base-color: #171717; // color of the link in the nav menu
-$link-dropdown-hover-color: #8A100B; // color of the link in the nav menu when hovering
+$link-dropdown-hover-color: #171717; // color of the link in the nav menu when hovering
 
 $body-text-color: #171717; // color of text inside paragraphs of body of the site
 $body-greyed-text: #676767; // color of greyed text
@@ -29,14 +29,14 @@ $footer-text-color: #FAFAFA; // color of regular text in the footer
 $mobile-dropdown-menu-text-color: #FAFAFA; // the color of regular text in the mobile dropdown nav menu
 
 $search-bar-background: #FAFAFA; // background color for the search bar
-$search-bar-results: #8A100B; // color for the results of the search
+$search-bar-results: #171717; // color for the results of the search
 $search-bar-border: #171717; // color for the border surrounding the search bar
 
-$code-block-color: #171717; // don't change this unless you knwo what you are doing, only used if using <code> tags to quote code in your posts/pages
+$code-block-color: #171717; // don't change this unless you know what you are doing, only used if using <code> tags to quote code in your posts/pages
 
 /* ===== FONTS ===== */
 // To change fonts, you need TWO things, to IMPORT the font (which fetches the font files), and to set the name of the font in the variable settings
-// 1. Go to fonts.google.com, select a font, choose 'Get Font', then 'Get Embed Code', then chose the @import option. Copy the @import statement to replace one of the statements below
+// 1. Go to fonts.google.com, select a font, choose 'Get Font', then 'Get Embed Code', then choose the @import option. Copy the @import statement to replace one of the statements below
 // 2. Copy the CSS name of that font family, and replace the respective font name below, either $title-font-family or $body-font-family
 
 /* import statements for fonts.  */
