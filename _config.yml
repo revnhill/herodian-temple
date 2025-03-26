@@ -23,14 +23,8 @@ nav-menu:
         link: islamic
   - title: Herodian Temple
     submenu:
-      - title: Sources & Methods
+      - title: Reconstruction
         link: methods
-      - title: Features
-        submenu:
-          - title: Features of the Temple Mount
-            link: featuresmount
-          - title: Features of the Temple Courts
-            link: featurescourts
       - title: Temple Location
         link: location
   - title: About
