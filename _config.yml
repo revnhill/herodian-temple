@@ -20,21 +20,18 @@ nav-menu:
       - title: Second Temple 
         link: secondtemple
       - title: Islamic Development
-      - link: islamicdev
+      - link: islamic
   - title: Herodian Temple
     submenu:
       - title: Sources & Methods
-      - link: sources
+      - link: methods
       - title: Features
       - link: features
       - title: Temple Location
       - link: location
   - title: About
     link: about
-    submenu:
-      - title: References
-      - link: bibliography
-
+   
 # sets whether a search bar appears on the site header
 search-bar: true
 
