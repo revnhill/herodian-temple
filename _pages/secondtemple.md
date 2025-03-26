@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Findings
-permalink: findings
+title: secondtemple
+permalink: secondtemple
 show-title: true
 ---
 
