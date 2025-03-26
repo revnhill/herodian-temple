@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reflections
-permalink: reflections
+title: Features
+permalink: features
 show-title: true
 ---
 
