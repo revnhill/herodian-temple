@@ -16,7 +16,7 @@ nav-menu:
   - title: History
     submenu:
       - title: Hebrew Bible
-        link: hebrewbible
+        link: hebrewbible.md
       - title: Second Temple 
         link: secondtemple
       - title: Islamic Development
