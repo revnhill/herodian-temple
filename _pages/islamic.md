@@ -11,4 +11,4 @@ The Temple Mount still exists today, and is known as the Noble Sanctuary by Musl
 
 The Aqsa Mosque occupies the southern portion of the Mount where the Royal Stoa stood in Herodian times. Other monuments have also been built on the esplanade. Near the Dome of the Rock are smaller domes that mark events from the Night Journey, including the Dome of the Prophet and the Dome of the Ascension. Other domes mark unrelated sites of religious significance, such as the Dome of the Chain, and the Dome of Spirits.
 
-<p  align="center"><img width="800" height="450" src="_pages/al-aqsa.png">
+<p  align="center"><img width="800" height="450" src="al-aqsa.png">
