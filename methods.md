@@ -7,7 +7,7 @@ show-title: true
 # Sources
 
 # Features
-Click on these links to learn more about the [Temple Mount](featuresmount.md) and the [Temple's inner courts](featurescourts.md) after Herod's reconstruction.
+Click on these links to learn more about the [Temple Mount](featuresmount.html) and the [Temple's inner courts](featurescourts.html) after Herod's reconstruction.
 
 
 
