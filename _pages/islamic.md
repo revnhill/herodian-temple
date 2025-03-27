@@ -1,4 +1,4 @@
-s---
+---
 layout: page
 title: Islamic Holy Sites
 permalink: islamic
