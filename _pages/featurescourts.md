@@ -3,6 +3,7 @@ layout: page
 title: Features of the Temple Courts
 permalink: featurescourts
 show-title: true
+---
 
 Moving further inward on the Temple Mount were a series of concentric courts, of progressive sanctity. The area on the Mount outside of the Temple Courts was the Court of the Gentiles, because anyone was permitted to visit that space. It was not considered sacred. The second court was square and surrounded by a latticed fence with signs that warned Gentiles not to proceed further on penalty of death.
 
