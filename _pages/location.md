@@ -24,7 +24,9 @@ On the Temple Mount itself, Ritmeyer aligns the temple perpendicular to the east
 
 <b>Proposal 2: Joseph Patrich</b><br> 
 (See: Patrich. “The Location of the Second Temple and the Layout of its Courts, Gates, and Chambers: A New Proposal.” In <i>Unearthing Jerusalem: 150 Years of A
-Archaeological Research in the Holy City</i>, edited by Katharina Galor and Gideon Avni, 205-229. University Park, PA: Eisenbrauns, 2011.)
+Archaeological Research in the Holy City</i>, edited by Katharina Galor and Gideon Avni, 205-229. University Park, PA: Eisenbrauns, 2011.) </p>
+<p  align="center"><img src="assets/img/Patrich 1.jpg"></p>
+
 
 In direct contrast to Ritmeyer (above) and Reznick (below), Patrich argues that the Rock currently in the Dome of the Rock cannot be the bedrock within the Holy of Holies or the bedrock under the altar. He estimates that the Rock would have been about 1.5 m under the Court of the Priests (the level of the altar) and an addition 6 cubits (3.1 m) below the sanctuary. Instead, Patrich bases his hypothesis regarding the location of the Inner Temple on the layout of cisterns beneath the surface of the Temple Mount. 
 
@@ -38,6 +40,7 @@ Patrich acknowledges that his placement of the Temple would leave limited space 
 
 <b>Proposal 3: Rabbi Leibel Reznick</b><br>
 (See: Reznick. <i>The Holy Temple Revisited</i>. Northvale, NJ: Jason Aronson, 1990.)
+<p  align="center"><img src="assets/img/Reznick 1.jpg"></p>
 
 Reznik’s theory draws heavily on the Mishnah and Talmudic commentaries on it, although he incorporates Jospehus and the current layout of the Temple Mount in his analysis. Because the Holy of Holies and the altar were both situated on bedrock, Reznik makes the a priori assumption that the Rock must be the site of either one or the other. He tests out both possibilities but concludes that it is most likely the site of the altar.
 
