@@ -4,6 +4,7 @@ title: Features of the Temple Mount
 permalink: featuresmount
 show-title: true
 ---
+## Features of the Heriodian Temple Mount Complex
 
 Herod expanded the Temple Mount in three directions: north, south, and west. The Kidron Valley prevented eastward expansion. The retaining walls for the Temple mount were made up of huge rectangular stones, most weighed between 2-5 tons and were 1 m. high, placed in rows. The biggest stone found to date weighs about 400 tons. This stone is 12 m long, 2 m high, and 4 m thick. 
 
@@ -13,3 +14,4 @@ The surface of the Tempel Mount was surrounded by large porticoes. The largest o
 
 At the northwestern corner of the Temple Mount, Herod built the Antonia fortress. Five hundred soldiers were stationed there to protect the Temple and its surroundings. From its towers, one could view everything happening inside the Temple Mount.
 
+Beyond the northeast corner of the Temple Mount was a reservoir called the Pool of Israel.
