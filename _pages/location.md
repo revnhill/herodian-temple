@@ -13,7 +13,8 @@ This section reviews three scholars’ proposals for the location of the Inner T
 -	Both the floor of the sanctuary (Holy of Holies) and the altar had exposed bedrock. 
 -	The Rock under the Dome of the Rock is currently the highest elevation of exposed bedrock on the Mount and therefore could be the location of the Holy of Holies or the altar
 
-
+<p  align="center"><img src="assets/img/three models.jpg"></p>
+ 
 <b>Proposal 1: Leen Ritmeyer</b> 
 <br>(See: L. Ritmeyer. <i>The Quest: Revealing the Temple Mount in Jerusalem.</i> Jerusalem, Israel: Carta, 2006.)
 
