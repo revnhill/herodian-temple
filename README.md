@@ -7,7 +7,7 @@ By Rev. Natalie Hill, Boston College
 
 Herod the Great ruled Judea from 37 B.C.E. until 4 C.E. During this time, he rebuilt the Jewish Temple in Jerusalem and dramatically expanded the Temple Mount. This Temple plays a significant role in the New Testament, particularly in the life of Jesus. Unfortunately, the Temple was destroyed by the Roman army in 70 C.E., making it hard for people today to imagine the events that occurred there 2000 years ago.
 
-To overcome this barrier, I have constructed a 3D model of the Herodian Temple and Temple Mount based on historical and archeological sources. It provides a window into first-century Jewish religious life. By better understanding this physical structure and context, we can better understand our faiths.
+To overcome this barrier, I have constructed a 3D model of the Herodian Temple and Temple Mount based on historical and archeological sources. It provides a window into first-century Jewish religious life. By better understanding this physical structure and context, we can better understand our faith traditions.
 
 This work is a capstone project for the Digital Humanities Certificate Program at Boston College.
 
