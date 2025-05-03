@@ -12,10 +12,10 @@ This section reviews three scholars’ proposals for the location of the Inner T
 -	Both the floor of the sanctuary (Holy of Holies) and the altar had exposed bedrock. 
 -	The Rock under the Dome of the Rock is currently the highest elevation of exposed bedrock on the Mount and therefore could be the location of the Holy of Holies or the altar
 
-<p  align="center"><img src="assets/img/three models.jpg"></p>
- 
+
 <b>Proposal 1: Leen Ritmeyer</b> 
 <br>(See: L. Ritmeyer. <i>The Quest: Revealing the Temple Mount in Jerusalem.</i> Jerusalem, Israel: Carta, 2006.)
+<p  align="center"><img src="assets/img/ritmeyer 1 1.jpg"></p>
 
 Leen Ritmeyer is an archaeological architect who participated in several excavations around the base on the Temple Mount. He spent many years examining the question of where exactly the Temple once stood. He believes the Rock is the site of the Holy of Holies. In fact, after close examination of the Rock, he believes that he identified the trench that would have held one of the walls of the sanctuary, and even an indented rectangle in the Rock where he believes the Ark of the Covenant stood in the First Temple period. 
 
