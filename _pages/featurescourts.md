@@ -4,8 +4,9 @@ title: Features of the Temple Courts
 permalink: featurescourts
 show-title: true
 ---
+## Features of the Inner Temple Courts
 
-Moving further inward on the Temple Mount were a series of concentric courts, of progressive sanctity. The area on the Mount outside of the Temple Courts was the Court of the Gentiles, because anyone was permitted to visit that space. It was not considered sacred. The second court was square and surrounded by a latticed fence with signs that warned Gentiles not to proceed further on penalty of death.
+Moving further inward on the Temple Mount were a series of concentric courts, of progressive sanctity. The area on the Mount outside of the Temple Courts was the Court of the Gentiles, because anyone was permitted to visit that space. It was not considered sacred. The second court was square and surrounded by a latticed fence with signs that warned Gentiles not to proceed further on penalty of death. Immediately inside this fence was the Court of the Jews, where all Jews could enter.
 
 Inside this area was the Temple proper, surrounded by high walls. The Temple faced east, and the eastern half of the enclosure was the Court of the Women. All Jewish people who were considered pure according to the Law of Moses could enter this area. However, only men could proceed further. Moving west, a set of semi-circular stairs led to the Nicanor Gate, the largest of the gates entering the Temple, which was plated with brass. Inside this gate was a wide and narrow area called the Court of the Israelites, where Jewish men brought animals for required sacrifices. 
 
