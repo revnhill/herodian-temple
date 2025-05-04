@@ -2,7 +2,7 @@
 layout: page
 title: Reconstruction
 permalink: methods
-show-title: falses
+show-title: false
 ---
 # Primary Sources for Reconstructing the Herodian Temple
 
