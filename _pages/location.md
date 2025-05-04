@@ -4,7 +4,8 @@ title: Temple Location
 permalink: location
 show-title: false
 ---
-<h2>Where <u>Exactly</u> was the Temple on the Temple Mount?</h2>
+<h2>Implications of Reconstruction:<br></h2> 
+  <h3>Where <u>Exactly</u> was the Temple on the Temple Mount?</h3>
 With a mostly intact Temple Mount alongside descriptions of the Temple from both scripture and contemporaneous literature/historiography, one would think scholars could be able to determine the location of the Inner Temple.  However, the precise location of the Temple on the Temple Mount remains one of the most hotly debated subjects among scholars, and none of the proposed locations is without problems.
 This section reviews three scholars’ proposals for the location of the Inner Temple. Common assumptions shaping theories of the Temple’s location include:
 -	Each time the Temple was reconstructed, it maintained the same location and footprint as the original (First) Temple built under King Solomon
