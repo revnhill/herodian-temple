@@ -23,8 +23,10 @@ nav-menu:
         link: islamic
   - title: Herodian Temple
     submenu:
-      - title: Reconstruction
+      - title: Primary Sources
         link: methods
+      - title: Features
+        link: featuresmount
       - title: Temple Location
         link: location
   - title: About
