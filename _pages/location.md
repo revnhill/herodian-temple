@@ -56,7 +56,7 @@ Second, he speculates about the period in 130-133 C.E. when Simon Bar Kokhba rec
 
 To determine where the Temple was situated on the 500 cubit square, Reznick relies on Talmudic commentary of Shiltai HaGiborim, who lived in the 16th century C.E. Thus, he places the Temple 63 cubits from the western edge, 100 cubits from the northern edge, 250 cubits from the eastern edge, and 265 cubits from the southern edge. 
 
-<b>Analysis</b>
+<h2>Analysis</h2>
 
 Ritmeyer, Patrich, and Reznick represent three of many theories scholars have developed regarding the location of the Temple. None of the theories are entirely viable or convincing. There is certainly a long history of associating the Rock with the Holy of Holies, as Ritmeyer does. However, descriptions of the Temple from Josephus and Middot indicate that the sanctuary was ten or more meters higher than the surface of the Temple Mount, while the top of the Rock is only 6.5 meters higher than the surface.
 
