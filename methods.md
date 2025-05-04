@@ -2,9 +2,9 @@
 layout: page
 title: Reconstruction
 permalink: methods
-show-title: true
+show-title: falses
 ---
-# Sources
+# Primary Sources for Reconstructing the Herodian Temple
 
 <img align="right" width="300" height="200" style="margin: 10px !important" src="assets/img/colorcoded2.jpg">
 While the Temple Mount still exists, the Temple was completely destroyed in 70 C.E. Other sacred monuments have been built where the Temple once stood, making it impossible to conduct significant archaeological excavations on the Mount itself. How is it even possible to reconstruct such a building? 
