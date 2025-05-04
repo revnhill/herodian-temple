@@ -29,6 +29,10 @@ nav-menu:
         link: location
   - title: About
     link: about
+    submenu:
+      - title: Bibliography
+        link: biblio
+
    
 # sets whether a search bar appears on the site header
 search-bar: false
