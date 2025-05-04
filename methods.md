@@ -8,8 +8,11 @@ show-title: true
 
 While the Temple Mount still exists, the Temple was completely destroyed in 70 C.E. Other sacred monuments have been built where the Temple once stood, making it impossible to conduct significant archaeological excavations on the Mount itself. How is it even possible to reconstruct such a building? 
 
-| Scriptural Sources | Josephus | Archaeology |
-| ------------------ | -------- | ----------- |
+ |          Scriptural Sources                |                    Josephus                 |                  Archaeology                |
+ 
+ | ------------------------------------------ | ------------------------------------------- | ------------------------------------------- |
+ 
+ |
 
 
 # Features
