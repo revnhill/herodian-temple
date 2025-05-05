@@ -30,8 +30,9 @@ nav-menu:
       - title: Temple Location
         link: location
   - title: About
-    link: about
     submenu:
+      - title: This Project
+        link: about 
       - title: Bibliography
         link: biblio
 
