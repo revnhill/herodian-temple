@@ -9,7 +9,7 @@ show-title: false
 <img align="right" width="300" height="200" style="margin: 10px !important" src="assets/img/colorcoded2.jpg">
 While the Temple Mount still exists, the Temple was completely destroyed in 70 C.E. Other sacred monuments have been built where the Temple once stood, making it impossible to conduct significant archaeological excavations on the Mount itself. How is it even possible to reconstruct such a building? 
 
-<br>Three major primary sources contribute to our current knowledge about the Temple. The images on this page show which source provides the most information about each aspect of the Temple complex. Darker shades represent greater certainty in the relevant primary source.<br><br><br>
+<br>Three major primary sources contribute to our current knowledge about the Temple. The images on this page identify the primary source that is most relevant for each structure on the Temple Mount. Shading is used to illustrate the strength of available data, with darker shades representing greater certainty within extant documents.<br><br><br>
 
 
 <p  align="center"><img src="assets/img/colorcoded.jpg"></p>
