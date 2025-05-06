@@ -29,7 +29,7 @@ On the Temple Mount itself, Ritmeyer aligns the temple perpendicular to the east
 <br>
 <b>Proposal 2: Joseph Patrich</b><br> 
 (See: Patrich. “The Location of the Second Temple and the Layout of its Courts, Gates, and Chambers: A New Proposal.” In <i>Unearthing Jerusalem: 150 Years of A
-Archaeological Research in the Holy City</i>, edited by Katharina Galor and Gideon Avni, 205-229. University Park, PA: Eisenbrauns, 2011.) </p>
+Archaeological Research in the Holy City</i>, edited by Katharina Galor and Gideon Avni, 205-229. University Park, PA: Eisenbrauns, 2011.) 
 <p  align="center"><img src="assets/img/Patrich 1.jpg"></p>
 
 
