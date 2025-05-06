@@ -11,7 +11,7 @@ This section reviews three scholars’ proposals for the location of the Inner T
 -	Each time the Temple was reconstructed, it maintained the same location and footprint as the original (First) Temple built under King Solomon
 -	The eastern wall of the Temple Mount could not move further east because it abutted the Kidron Valley. Therefore the angle and placement of that wall predated Herod’s Temple Mount.
 -	Both the floor of the sanctuary (Holy of Holies) and the altar had exposed bedrock. 
--	The Rock under the Dome of the Rock is currently the highest elevation of exposed bedrock on the Mount and therefore could be the location of the Holy of Holies or the altar</P>
+-	The Rock under the Dome of the Rock is currently the highest elevation of exposed bedrock on the Mount and therefore could be the location of the Holy of Holies or the altar
 
 <p><b>Proposal 1: Leen Ritmeyer</b> 
 <br>(See: L. Ritmeyer. <i>The Quest: Revealing the Temple Mount in Jerusalem.</i> Jerusalem, Israel: Carta, 2006.)</p>
